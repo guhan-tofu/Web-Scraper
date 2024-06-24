@@ -12,7 +12,7 @@ service = Service(ChromeDriverManager().install())
 driver = webdriver.Chrome(service=service, options=chrome_options)
 
 # Load the webpage
-url = "https://www.technocit.com/solutions"
+url = "Enter URL here"
 driver.get(url)
 
 # Wait for JavaScript to load (you might need to adjust the wait time)
