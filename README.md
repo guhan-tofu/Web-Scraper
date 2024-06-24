@@ -1,4 +1,8 @@
 # Web-Scraper
+
+Obtains a URL which has its UI removed and read, returning the text obtained from the given URL.
+
+
 ## Create and activate a virtual environment if you don't have one
 
 
