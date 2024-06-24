@@ -24,7 +24,7 @@ Obtains a URL which has its UI removed and read, returning the text obtained fro
 `pip install beautifulsoup4`
 
 ## Enter URL in scraper.py
-###(line 15)
+(line 15)
 
 
 ## Run scraper.py
